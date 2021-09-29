@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Bad Bank three-tier application that uses React, Node.js/Express and MongoDB on docker.
+> Bad Bank three-tier application that uses React, Node.js/Express and MongoDB on a Docker container.
 
 ## Install
 
