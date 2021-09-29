@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Bad bank application project uses a 3 tier application using react for the front end and node + express to create the server side back end. this project is using mongoDB for the database. This application is packaged into a docker container.
+> Bad Bank three-tier application that uses React, Node.js/Express and a MongoDB that runs on a docker container.
 
 ## Install
 
