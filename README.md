@@ -35,7 +35,7 @@ npm run test
 
 ## Tech Used:
 
-````sh
+```sh
 HTML
 CSS
 JavaScript
@@ -43,6 +43,7 @@ Bootstrap
 Docker
 Node.js
 MongoDB
+```
 
 ## Features
 
@@ -52,7 +53,7 @@ MongoDB
  Withdraw funds
  Check balance
  Review all data
-````
+```
 
 ## Upcoming Features
 
