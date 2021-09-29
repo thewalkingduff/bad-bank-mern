@@ -1,4 +1,7 @@
 <h1 align="center">Welcome to bad-bank-mern 👋</h1>
+  <a href="#" target="_blank">
+    <img alt="app-screenshot" src="public/screenshot.png" />
+  </a>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -14,7 +17,14 @@
 ## Install
 
 ```sh
-npm install & docker run -p 27017:27017 -name badbank -d mongoDB
+npm install
+```
+
+## Usage
+
+```sh
+docker run -p 27017:27017 -name badbank -d mongoDB
+node index.js
 ```
 
 ## Run tests
@@ -23,16 +33,43 @@ npm install & docker run -p 27017:27017 -name badbank -d mongoDB
 npm run test
 ```
 
-## Author
+## Tech Used:
 
-* Website: www.devduffy.com
-* Twitter: [@duffManCode](https://twitter.com/duffManCode)
-* Github: [@thewalkingduff](https://github.com/thewalkingduff)
-* LinkedIn: [@devduffy](https://linkedin.com/in/devduffy)
+````sh
+HTML
+CSS
+JavaScript
+Bootstrap
+Docker
+Node.js
+MongoDB
+
+## Features
+
+```sh
+ Create Users
+ Deposit funds
+ Withdraw funds
+ Check balance
+ Review all data
+````
+
+## Upcoming Features
+
+```sh
+ Front-end Authentication
+ Middleware Authentication
+```
+
+- Website: www.devduffy.com
+- Twitter: [@duffManCode](https://twitter.com/duffManCode)
+- Github: [@thewalkingduff](https://github.com/thewalkingduff)
+- LinkedIn: [@devduffy](https://linkedin.com/in/devduffy)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
